@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'bradley_gratisregular';
+    src: url('../fonts/bradley_gratis/bradley_gratis-webfont.eot');
+    src: url('../fonts/bradley_gratis/bradley_gratis-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bradley_gratis/bradley_gratis-webfont.woff') format('woff'),
+         url('../fonts/bradley_gratis/bradley_gratis-webfont.ttf') format('truetype'),
+         url('../fonts/bradley_gratis/bradley_gratis-webfont.svg#bradley_gratisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #F9CE06; /* Amarelo */
+}
+a {
+    color: #DC0000; /* Vermelho */
+}
+#container {
+    margin: auto;
+    width: 1000px;
+}
+#logo {
+    width: 200px;
+    padding: 20px 30px;
+}
+
+/*Menu*/
+#menu {
+    width: 200px;
+    margin-left: 0;
+}
+#menu ul {
+    list-style-type: none;
+}
+#menu a {
+    font-family: 'bradley_gratisregular';
+    font-size: 20px;
+    display: block;
+    max-width: 200px;
+    margin-top: 5px;
+    background: url(../img/brown-transparent.png);
+    padding: 10px 20px;
+    color: #F9CE06; /* amarelo */
+    text-decoration: none;
+    overflow: hidden;
+}
+#menu li a:hover {
+    background: url(../img/black-transparent.png);
+    color: #DC0000; /* vermelho */
+}
+.li-menu {
+    margin-left: -30px;
+}
+/*Menu main
+.li-menu {
+    margin-left: -30px;
+    position: relative;
+}
+.li-menu:hover > .submenu, .li-menu:focus > .submenu {
+    display: block;
+    z-index: 2;
+}
+*/
+/*Submenus
+.submenu {
+    position: absolute;
+    margin-left: 169px;
+    margin-top: -45px;
+    display:none;
+    margin-left: 180px;
+}
+*/
+
+#content {
+    position: absolute;
+    top: 10px;
+    right: 10px; 
+    width: 750px;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'bradley_gratisregular';
+    font-size: 30px;
+    color: #F9CE06; /* Amarelo */
+}
