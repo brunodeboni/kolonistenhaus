@@ -13,15 +13,17 @@
             <div id="menu">
                 <ul id="menu-container">
                     <li class="li-menu"><a href="index.php">Página Inicial</a></li>
-                    <li class="li-menu"><a href="atracoes/duplas.php">Duplas Românticas</a></li>
-                    <li class="li-menu"><a href="atracoes/bandinhas.php">Bandinhas</a></li>
-                    <li class="li-menu"><a href="atracoes/festa.php">Festa ao ar livre</a></li>
-                    <li class="li-menu"><a href="atracoes/danca.php">Aulas de Dança</a></li>
+                    <li class="li-menu"><a href="#atracoes/duplas.php">Duplas Românticas</a></li>
+                    <li class="li-menu"><a href="#atracoes/bandinhas.php">Bandinhas</a></li>
+                    <li class="li-menu"><a href="#atracoes/festa.php">Festa ao ar livre</a></li>
+                    <li class="li-menu"><a href="#atracoes/danca.php">Aulas de Dança</a></li>
                 </ul>
             </div>
             <div id="content">
                 <h1>Músicas & Atrações</h1>
-                
+                <div id="construcao">
+					Página em construção.
+				</div>
             </div>
         </div>
         <script>

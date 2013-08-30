@@ -21,7 +21,7 @@ a {
 }
 #container {
     margin: auto;
-    width: 1000px;
+    width: 980px;
 }
 #logo {
     width: 200px;
@@ -88,4 +88,18 @@ h1 {
     font-family: 'bradley_gratisregular';
     font-size: 30px;
     color: #F9CE06; /* Amarelo */
+}
+#endereco {
+	background: url(../img/brown-transparent.png);
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#construcao {
+	text-align: center;
+	padding: 150px;
+	font-family: 'bradley_gratisregular';
+	font-size: 25px;
+	background: url(../img/brown-transparent.png);
 }

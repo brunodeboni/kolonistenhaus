@@ -13,14 +13,16 @@
             <div id="menu">
                 <ul id="menu-container">
                     <li class="li-menu"><a href="index.php">Página Inicial</a></li>
-                    <li class="li-menu"><a href="rotaromantica.php">Rota Romântica</a></li>
-                    <li class="li-menu"><a href="caminhosdacolonia.php">Caminhos da colônia</a></li>
-                    <li class="li-menu"><a href="monumentos.php">Monumentos Históricos</a></li>
+                    <li class="li-menu"><a href="#rotaromantica.php">Rota Romântica</a></li>
+                    <li class="li-menu"><a href="#caminhosdacolonia.php">Caminhos da colônia</a></li>
+                    <li class="li-menu"><a href="#monumentos.php">Monumentos Históricos</a></li>
                 </ul>
             </div>
             <div id="content">
                 <h1>Passeios Turísticos</h1>
-                
+                <div id="construcao">
+					Página em construção.
+				</div>
             </div>
         </div>
         <script>

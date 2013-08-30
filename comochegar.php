@@ -25,7 +25,13 @@
                 <h1>Como chegar</h1>
                 <iframe width="750" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=208972934983528767381.0004e47a878d6c736f48f&amp;ie=UTF8&amp;t=m&amp;ll=-29.524587,-51.180453&amp;spn=0.018671,0.032144&amp;z=15&amp;output=embed"></iframe><br />
                 <span>Visualizar a <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=208972934983528767381.0004e47a878d6c736f48f&amp;ie=UTF8&amp;t=m&amp;ll=-29.524587,-51.180453&amp;spn=0.018671,0.032144&amp;z=15&amp;source=embed">localização do Kolonisten Haus</a> em um mapa maior.</span>
-            </div>
+
+				<div id="endereco" style="margin-top: 5px;">
+					<h1>Contato</h1>
+					Telefone: (51) 3445-3400 / (51) 9299-8575<br>
+					Endereço: Rua Armando Seewald, 91. Centro. Presidente Lucena, RS.
+				</div>
+			</div>
         </div>
         <script>
         $(document).ready(function(){

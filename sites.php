@@ -23,7 +23,9 @@
             </div>
             <div id="content">
                 <h1>Sites Interessantes</h1>
-                
+                <div id="construcao">
+					Página em construção.
+				</div>
             </div>
         </div>
         <script>

@@ -32,6 +32,7 @@
             </div>
             <div id="content">
                 <h1>Infra-Estrutura</h1>
+				<!--
                 <ul class="bxslider">
                     <li><img src="resources/img/home/weiblich-banheiro.png" width="750" height="500" style="border: 0;"></li>
                     <li><img src="resources/img/home/mannlich-banheiro.png" width="750" height="500" style="border: 0;"></li>
@@ -39,6 +40,10 @@
                     <li><img src="resources/img/home/beer-glass.png" width="750" height="500" style="border: 0;"></li>
                     <li><img src="resources/img/home/13.png" width="750" height="500" style="border: 0;"></li>
                 </ul>
+				-->
+				<div id="construcao">
+					Página em construção.
+				</div>
             </div>
         </div>
         <script>
